@@ -1,6 +1,6 @@
 order_id,date,customer_id,product_id,product_name,quantity,unit_price,total_price
 1001,2023-05-01,C001,P101,Widget A,2,19.99,39.98
-1002,2023-05-01,C002,P102,Gadget B,1,29.99,29.99
+1002,2023-05-01,C002,P102,Gadget B,1,19.99,29.99
 1003,2023-05-02,C003,P101,Widget A,3,19.99,59.97
 1004,2023-05-02,C001,P103,Gizmo C,1,49.99,49.99
 1005,2023-05-03,C004,P102,Gadget B,2,29.99,59.98
